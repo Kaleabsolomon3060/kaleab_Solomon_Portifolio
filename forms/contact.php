@@ -1,5 +1,5 @@
 <?php
-  $receiving_email_address = 'danideresse15@gmail.com';
+  $receiving_email_address = 'kaleabsolomon1621gmail.com';
 
   if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {
     include( $php_email_form );
@@ -19,7 +19,7 @@
   
   $contact->smtp = array(
     'host' => 'smtp-relay.brevo.com',
-    'username' => 'danideresse15@gmail.com',
+    'username' => 'kaleabsolomon1621@gmail.com',
     'password' => 'V72KYOIL5nRgDa8A',
     'port' => '587'
   );
